@@ -524,3 +524,26 @@ font-weight: 200;
   font-style: italic;
   font-weight: 300;
 }
+
+/*cookie message styling*/
+.cookie-message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: #deaa86;
+  font-size: 1.5rem;
+  font-weight: 400;
+  background-color: rgb(153, 78, 78);
+}
+.btn--close-cookie{
+  background-color: #deaaf6;
+color: black;
+height: 2rem;
+width: 6rem;
+border-radius: 30px;
+border: none;
+cursor: pointer;
+font-size: 10px;
+padding: 5px;
+}
