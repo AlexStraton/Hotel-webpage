@@ -1,6 +1,9 @@
 ## Grand Hotel Webpage
 
-This project is a webpage for Grand Hotel, featuring sections like About Us, Rooms, Customers, and a Footer. It is built using HTML, CSS, and JavaScript.
+This project is a webpage for Grand Hotel, featuring sections like About Us, Rooms, Customers, and a Footer.
+
+It is built using HTML, CSS, and JavaScript.
+
 I built this within a week, and it is the result of a Udemy CSS course which focussed on learning Flexbox when styling. 
 This helped me to deeply understand and apply flexbox.
 
